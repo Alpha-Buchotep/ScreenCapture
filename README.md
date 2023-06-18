@@ -40,3 +40,4 @@ Képernyőfotó készítő alkalmazás demo VB.NET nyelven.
 
 ### Képek
 
+![screenCapture](https://user-images.githubusercontent.com/63890454/246638712-1b4b2cac-daae-452e-9170-78fca31c6a5d.png)
