@@ -15,10 +15,12 @@ Képernyőfotó készítő alkalmazás demo VB.NET nyelven.
 ### Az alkalmazásról:
 
 * Maximum 4 monitor támogatás
-* Választható 0.5 - 25 FPS
+* Választható 0.5 - 25 FPS **(*)**
 * Helyi megjelenítési lehetőség
 * Fájl mentési lehetőség
 * JPG (72 dpi) / PNG (150 dpi) minőség
+
+**(*)** - VB.NET-ben a Timer sebessége miatt az elérhető maximum rögzítés kb. 7-15 képkocka / másodperc.
 
 ### Futtatáshoz szükséges:
 
