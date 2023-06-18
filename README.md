@@ -23,7 +23,7 @@ Képernyőfotó készítő alkalmazás demo VB.NET nyelven.
 ### Futtatáshoz szükséges:
 
 * Microsoft .NET Framework 4.0 vagy újabb
-* A futattható (compiled) állomány a bin/release mappában található
+* A futattható (compiled) állomány a bin/release mappában található ([screenShoter.exe](https://github.com/Alpha-Buchotep/ScreenCapture/tree/main/bin/Release/screenShoter.exe))
 
 ### A projekt készült:
 
